@@ -1,5 +1,5 @@
 
-![banner](https://github.com/sashkoristovski/sashkoristovski/blob/9c65ec791a0e04be1e7ff5f77fc6a518d6af131d/img/bannerSash.png)
+![banner](https://github.com/sashkoristovski/sashkoristovski/blob/e19452a8917bd1530c0cfb863d7a82738be4c512/img/bannerSashko.gif)
 
 <h2> Hey there! I'm Sashko Ristovski.</h2>
 
@@ -14,6 +14,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![C#](https://img.shields.io/badge/C%23-hi-brightgreen)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
