@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sashko Ristovski</h1>
 <h3 align="center">A passionate software developer birth in Macedonia and living in England.</h3>
-
+<img align="right" alt ="Coding" width="400" src ="https://github.com/sashkoristovski/sashkoristovski/blob/master/headingpic.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me&label=Profile%20views&color=0e75b6&style=flat" alt="me" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=me" alt="me" /></a> </p>
