@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+![banner](https://github.com/sashkoristovski/sashkoristovski/blob/9c65ec791a0e04be1e7ff5f77fc6a518d6af131d/img/bannerSash.png)
 
 <h2> Hey there! I'm Sashko Ristovski.</h2>
 
