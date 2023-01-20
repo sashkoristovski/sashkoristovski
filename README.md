@@ -5,9 +5,9 @@
 
 Hey there 👋
 
-I’m Sash, a junior software engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Sash, a junior software engineer, A creative and passionate network engineer, currently looking for a software developer opportunity that will allow me to work alongside an expert team of developers and thereby helping to drive my career progression to more senior roles in the future. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://#/)
 
 ## 📝 Latest Projects
 
@@ -55,12 +55,12 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/sashkoristovski">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashkoristovski&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/sashkoristovski">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sashkoristovski&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sashko's GitHub Stats" />(https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 <br>
@@ -121,11 +121,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 -->
 </details>
 
-<br>
 
-## 📣 How about an your feedback before you go?
 
-<br>
+## 📣 Thank you for vising my profile please give me a feedback before you go?
+
+
 
 > ### Do you Want to know more about me?
 >
