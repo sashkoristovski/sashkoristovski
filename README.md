@@ -3,21 +3,28 @@
   <img src="img/bannerSashko.gif" width=100% height="250"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com//in/sashko-ristovski">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/SashkoRistovsk2">
-    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
+<br>
+<br>
 
 Hey there 👋
 
-I’m Sash, a talented graduate developer with a strong academic background and 15 years network and service delivery experience, currently looking for a software developer opportunity that will allow me to work alongside an expert team of developers and thereby helping to drive my career progression to more senior roles in the future. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Sash, a talented graduate developer with a strong academic background and 15 years network, service delivery experience, currently looking for a software developer opportunity that will allow me to work alongside an expert team of developers and thereby helping to drive my career progression to more senior roles in the future. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
+- :telescope: Currently I am looking for a C# software developer opportunity for building web applications.
 
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I play a handball, solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: ↓
+    <div id="badges">
+    <a href="https://www.linkedin.com//in/sashko-ristovski">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/SashkoRistovsk2">
+      <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+    </div>
 Want to know more about me? [Check out my portfolio.](https://#/)
 
 ## 📝 Latest Projects
@@ -39,74 +46,66 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 <br>
 
-<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashkoristovski&layout=compact)](https://github.com/sashkoristovski/github-readme-stats)
-<br>
-<br>
-
-## 💼 Skills
-
-<div display= "inline-block">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<section>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Spring" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" title="Spring" alt="C#" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
+  <img align="left" style="height:150px; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
+  <img align="right"style="height:150px; width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+  
+<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
+  <img align="left" style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
+  <img align="right"style="width:48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+  
+<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
+  <img align="left" style="width: 48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
+  <img align="right"style="margin:0.5rem; width:48%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+</section>
+<div style="clear: both;">
+  </div>
+
+  
+<br>
+
+  ## 💼 Skills
+
+<br>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Spring" alt="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" title="Spring" alt="C#" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-
-
 <br>
 
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-
-
+  
 <br>
   
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
@@ -118,8 +117,14 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
-
 <!---
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+
 ![](https://img.shields.io/badge/Code-Phyton-informational?style=flat&logo=Phyton&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
@@ -137,7 +142,13 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 -->
 </details>
 
+## &#x1f4c8; GitHub Stats
 
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sashkoristovski&theme=tokyonight)
+
+<br>
 
 ## 📣 Thank you for vising my profile please give me a feedback before you go?
 
