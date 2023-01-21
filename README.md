@@ -67,16 +67,10 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 <a href="https://github.com/sashkoristovski/OpenClassFirstProject">
   <img align="right" style="height:150px; width: 47%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-  
   <img style="float: right;; width:48%;" />
-  
 </section>
 
-<br>
-
   ## 💼 Skills
-
-<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
@@ -139,11 +133,7 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sashkoristovski&theme=tokyonight)
-
-<br>
 
 ## 📣 Thank you for vising my profile please give me a feedback before you go?
 
