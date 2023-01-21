@@ -148,9 +148,5 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 <br>
 
 ## 📣 Thank you for vising my profile please give me a feedback before you go?
-
-
-
-> ### Do you Want to know more about me?
 >
 >
