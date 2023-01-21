@@ -143,9 +143,8 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 ## 📣 Thank you for vising my profile please give me a feedback before you go?
 
+:mailbox: How to reach me: ↓
 <br>
-
-- :mailbox: How to reach me: ↓
     <div id="badges">
     <a href="https://www.linkedin.com//in/sashko-ristovski">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -153,4 +152,8 @@ Want to know more about me? [Check out my portfolio.](https://#/)
     <a href="https://twitter.com/SashkoRistovsk2">
       <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
+     <a href="mailto:john@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      </a>
     </div>
+
