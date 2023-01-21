@@ -152,7 +152,7 @@ Want to know more about me? [Check out my portfolio.](https://#/)
     <a href="https://twitter.com/SashkoRistovsk2">
       <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-     <a href="mailto:john@example.com">
+     <a href="mailto:sashko.ristovski@yahoo.co.uk">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
       </a>
     </div>
