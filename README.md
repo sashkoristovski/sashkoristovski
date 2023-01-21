@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Sash, a talented graduate developer with a strong academic background and some networks experience, currently looking for a software developer opportunity that will allow me to work alongside an expert team of developers and thereby helping to drive my career progression to more senior roles in the future. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Sash, a talented graduate developer with a strong academic background and 12 years networks experience, currently looking for a software developer opportunity that will allow me to work alongside an expert team of developers and thereby helping to drive my career progression to more senior roles in the future. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 
 Want to know more about me? [Check out my portfolio.](https://#/)
