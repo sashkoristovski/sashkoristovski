@@ -22,10 +22,8 @@ I make my mission to translate user-focused designs into pixel-perfect websites 
 Want to know more about me? [Check out my portfolio.](https://#/)
 
 
-
 ## 📝 Latest Projects
 
-<br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Biofolio V3 - Update 2023](https://#)
@@ -38,45 +36,12 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 <br>
 
-## 📌 Pinned Repositories
-
-<br>
-
-<section align="center">
-  
-<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
-  <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
-  <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-  
-<a href="https://github.com/sashkoristovski/OpenClassFirstProject">
-  <imgstyle="width: 80%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://sashkoristovski.github.io/bankist/">
-  <imgstyle="width: 80%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=bankist&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-  
-<a href="https://sashkoristovski.github.io/Ohmyfood/">
-  <img style="width:80%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=Ohmyfood&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://sashkoristovski.github.io/OpenClassFirstProject/">
-  <img style="width: 80%;" src="https://github-readme-stats.vercel.app/api/pin/?username=sashkoristovski&repo=OpenClassFirstProject&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-  <img style="float:none; width:100%;" />
-</section>
-
   ## 💼 Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Spring" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" title="Spring" alt="C#" width="40" height="40"/>
@@ -94,9 +59,8 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-  
 <br>
-  
+ 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
