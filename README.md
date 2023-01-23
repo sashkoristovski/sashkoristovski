@@ -25,8 +25,8 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Biofolio V3 - Update 2023](https://#)
-- [C# Project](https://#)
-- [JS Project](https://sashkoristovski.github.io/bankist/)
+- [JS Project Mapty](https://sashkoristovski.github.io/Mapty/)
+- [JS Project Bankist](https://sashkoristovski.github.io/bankist/)
 - [React Project](https://#)
 - [Bootcamp Project two](https://sashkoristovski.github.io/Ohmyfood/)
 - [Bootcamp Project one](https://sashkoristovski.github.io/OpenClassFirstProject/)
