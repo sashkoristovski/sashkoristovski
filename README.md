@@ -24,10 +24,8 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Biofolio V3 - Update 2023](https://#)
 - [JS Project Mapty](https://sashkoristovski.github.io/Mapty/)
 - [JS Project Bankist](https://sashkoristovski.github.io/bankist/)
-- [React Project](https://#)
 - [Bootcamp Project two](https://sashkoristovski.github.io/Ohmyfood/)
 - [Bootcamp Project one](https://sashkoristovski.github.io/OpenClassFirstProject/)
 <!-- BLOG-POST-LIST:END -->
@@ -67,6 +65,9 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 <!---
+- [Biofolio V3 - Update 2023](https://#)
+- [React Project](https://#)
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
