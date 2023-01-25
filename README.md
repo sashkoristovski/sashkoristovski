@@ -25,7 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 
 <!-- BLOG-POST-LIST:START -->
 - [JS Project Mapty](https://sashkoristovski.github.io/Mapty/)
-- [JS Project Bankist](https://sashkoristovski.github.io/bankist/)
+- [JS Project Bankist](https://sashkoristovski.github.io/Bankist/)
 - [Bootcamp Project two](https://sashkoristovski.github.io/Ohmyfood/)
 - [Bootcamp Project one](https://sashkoristovski.github.io/OpenClassFirstProject/)
 <!-- BLOG-POST-LIST:END -->
