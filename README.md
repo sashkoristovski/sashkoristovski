@@ -14,7 +14,7 @@ I make my mission to translate user-focused designs into pixel-perfect websites 
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I play a handball, solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I play a handball, read tech articles.
 
 
 Want to know more about me? [Check out my portfolio.](https://#/)
