@@ -26,8 +26,9 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 <!-- BLOG-POST-LIST:START -->
 - [JS Project Mapty](https://sashkoristovski.github.io/Mapty/)
 - [JS Project Bankist](https://sashkoristovski.github.io/Bankist/)
-- [Bootcamp Project two](https://sashkoristovski.github.io/Ohmyfood/)
-- [Bootcamp Project one](https://sashkoristovski.github.io/OpenClassFirstProject/)
+- [.NET Blazor App project Suggestion App](https://github.com/sashkoristovski/SuggestionApp)
+- [Bootcamp Project](https://sashkoristovski.github.io/Ohmyfood/)
+
 <!-- BLOG-POST-LIST:END -->
 
   ## 💼 Skills
