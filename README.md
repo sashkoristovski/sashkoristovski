@@ -17,7 +17,7 @@ I make my mission to translate user-focused designs into pixel-perfect websites 
 - :zap: In my free time, I play a handball, read tech articles.
 
 
-Want to know more about me? [Check out my portfolio.](https://#/)
+Want to know more about me? 
 
 
 ## 📝 Latest Projects
@@ -28,7 +28,7 @@ Want to know more about me? [Check out my portfolio.](https://#/)
 - [JS Project Bankist](https://sashkoristovski.github.io/Bankist/)
 - [.NET Blazor App project Suggestion App](https://github.com/sashkoristovski/SuggestionApp)
 - [Bootcamp Project](https://sashkoristovski.github.io/Ohmyfood/)
-
+- [Check out my portfolio.](https://#/)
 <!-- BLOG-POST-LIST:END -->
 
   ## 💼 Skills
