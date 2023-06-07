@@ -28,7 +28,7 @@ Want to know more about me?
 - [JS Project Bankist](https://sashkoristovski.github.io/Bankist/)
 - [.NET Blazor App project Suggestion App](https://github.com/sashkoristovski/SuggestionApp)
 - [Bootcamp Project](https://sashkoristovski.github.io/Ohmyfood/)
-- [Check out my portfolio.](https://#/)
+
 <!-- BLOG-POST-LIST:END -->
 
   ## 💼 Skills
@@ -64,7 +64,7 @@ Want to know more about me?
 <!---
 - [Biofolio V3 - Update 2023](https://#)
 - [React Project](https://#)
-
+- [Check out my portfolio.](https://#/)
 
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
